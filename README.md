@@ -1,3 +1,4 @@
 # hello-world
-Initial repository.
-wtf
+# Initial repository.
+
+# Testing and practicing.
